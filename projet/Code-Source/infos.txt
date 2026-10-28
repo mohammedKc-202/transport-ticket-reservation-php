@@ -1,0 +1,14 @@
+--importer le fichier de base de donnee {Database} dans XAMPP server et assurer que la base de donne MY SQL est demaree
+
+--les infos de connexion 
+
+pour Admin 
+
+email : anaadmin2024@gmail.com
+mot de passe : password1234
+
+
+pour tester un client :
+
+email : khachiaa2003@gmail.com
+mot de passe : 12345678
